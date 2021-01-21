@@ -7,3 +7,19 @@
       color:  green;
       
   }
+
+  .todo-list{     
+      display: flex;
+      justify-content: space-between;               
+  }
+
+  .todo-item{
+    width: 250px;
+    height: 20px;
+    margin: 20px 10px;
+  }
+
+
+
+  
+  

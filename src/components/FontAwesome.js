@@ -6,6 +6,8 @@ import {
   faUser,
   faEye,
   faEyeSlash,
+  faEdit,
+  faTrash
 } from "@fortawesome/free-solid-svg-icons";
 
-library.add(fab, faEnvelope, faLock, faUser, faEye, faEyeSlash);
+library.add(fab, faEnvelope, faLock, faUser, faEye, faEyeSlash, faEdit, faTrash);
